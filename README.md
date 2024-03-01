@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nowrin Khondokar - GitHub Profile</title>
-</head>
-
-<body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background-color: #f8f8f8; color: #333;">
-    <div style="max-width: 800px; margin: auto; padding: 20px;">
         <h1>Hello, I'm Nowrin Khondokar! 👋</h1>
         <p><strong>Junior Software Quality Assurance Engineer | Passionate Learner | Tech Enthusiast</strong></p>
         <p>Welcome to my GitHub profile! I'm Nowrin, a detail-oriented Junior Software Quality Assurance Engineer with a passion for ensuring the reliability and functionality of software products. I'm committed to continuous learning and staying updated with the latest trends and technologies in the software industry.</p>
